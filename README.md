@@ -1,5 +1,5 @@
 Image compressor using squoosh library @squoosh/lib^0.5.3
-[text](https://www.npmjs.com/package/@squoosh/lib)
+[squoosh lib](https://www.npmjs.com/package/@squoosh/lib)
 
 ### Image input location
 > **/images**
